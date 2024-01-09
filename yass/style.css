@@ -23,7 +23,7 @@
   }
   
   .card-header{
-    background: #2c3a47;
+    background:#DB0F15;
     padding: 60px 40px;
   }
   
@@ -67,8 +67,9 @@
   }
   
   .desc{
-    font-size: 18px;
-    color: #e66767;
+    font-family: arial;
+    font-size: 20px;
+    color: #000000;
   }
   
   .sm{
@@ -94,7 +95,7 @@
   .contact-btn{
     display: inline-block;
     padding: 12px 50px;
-    color: #e66767;
+    color: #000000;
     border: 2px solid #e66767;
     border-radius: 6px;
     margin-top: 16px;
@@ -102,7 +103,7 @@
   }
   
   .contact-btn:hover{
-    background: #e66767;
+    background: #000000;
     color: #f2f2f2;
   }
   
